@@ -3,7 +3,7 @@
 Results cannot be trusted or reproduced when configuration, data versions, and artifacts live in separate locations.
 
 **Status:** Product brief. No working application or performance claims yet.
-Built as a Spacedrift portfolio demonstration for **research labs, phd teams, and applied ml groups**.
+Built as a Spacedrift portfolio demonstration for **research labs, PhD teams, and applied ML groups**.
 
 ## Client demonstration
 
@@ -88,7 +88,7 @@ Keep client names and case-study claims out of the demo unless authorized.
 
 ## Contact and usage
 
-[Spacedrift](https://spacedrift.in) · [Project enquiries](mailto:spacedrift.contact@gmail.com)
+[Spacedrift](https://spacedrift.in) · [Project enquiries](mailto:lourdu@spacedrift.in)
 
 Copyright © 2026 Spacedrift. No open-source license is granted in this scaffold.
 Select explicit license terms before inviting public code reuse.
